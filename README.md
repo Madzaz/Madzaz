@@ -2,8 +2,8 @@
 While I'm at the beginning of my career, I'm committed to learning and developing my skills to become an expert in the field.
 
 👀 What I Offer:
-• Proficiency in HTML, CSS, SCSS.
-• Solid knowledge of JavaScript.
+• Proficiency in HTML and CSS.
+• Good knowledge of JavaScript and MySQL.
 • Basic knowledge of PHP.
 • Willingness to learn new technologies and tools.
 • Ability to work as part of a team and communicate effectively.
