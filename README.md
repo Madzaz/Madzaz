@@ -1,10 +1,9 @@
-👋 Hello! I'm Mladen, an ambitious frontend developer with a passion for creating elegant and interactive user interfaces. 
-While I'm at the beginning of my career, I'm committed to learning and developing my skills to become an expert in the field.
+👋 Hello! I'm Mladen, an ambitious webflow developer with a passion for creating elegant and interactive user interfaces. While I'm at the beginning of my career,
+I'm committed to learning and developing my skills to become an expert in the field.
 
 👀 What I Offer:
-• Proficiency in HTML and CSS.
-• Good knowledge of JavaScript and MySQL.
-• Basic knowledge of PHP.
+• Proficiency in Webflow, HTML and CSS.
+• Good knowledge of Figma, JavaScript and MySQL.
 • Willingness to learn new technologies and tools.
 • Ability to work as part of a team and communicate effectively.
 
@@ -19,7 +18,7 @@ While I'm at the beginning of my career, I'm committed to learning and developin
 
 📫 Feel free to contact me if:
 • You have a project where I can contribute.
-• You're looking to collaborate with a motivated and dedicated frontend developer.
+• You're looking to collaborate with a motivated and dedicated webflow developer.
 <!---
 Madzaz/Madzaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
